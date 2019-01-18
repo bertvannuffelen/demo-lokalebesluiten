@@ -1,0 +1,69 @@
+[
+  {
+    "name": "bestuur",
+    "type": "voc",
+    "eap": "OSLO-Bestuur-VOC.eap",
+    "diagram": "OSLO-Bestuur",
+    "template": "bestuur-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Bestuur",
+    "config" : "config/config-voc.json",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "besluit",
+    "type": "voc",
+    "eap": "OSLO-Besluit-VOC.eap",
+    "diagram": "OSLO-Besluit",
+    "template": "besluit-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Besluit",
+    "config" : "config/config-voc.json",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "mandaat",
+    "type": "voc",
+    "eap": "OSLO-Mandaat-VOC.eap",
+    "diagram": "OSLO-Mandaat",
+    "template": "mandaat-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Mandaat",
+    "config" : "config/config-voc.json",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "besluit-publicatie",
+    "type": "ap",
+    "eap": "OSLO-Besluit-Publicatie-AP.eap",
+    "diagram": "OSLO-Besluit-Publicatie",
+    "template": "besluit-publicatie-ap.j2",
+    "title": "Besluit Publicatie",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Besluit",
+    "config" : "config/config-ap.json",
+    "site": "site-skeleton/besluit-publicatie"
+  },
+  {
+    "name": "mandatendatabank",
+    "type": "ap",
+    "eap": "OSLO-Mandatendatabank-AP.eap",
+    "diagram": "OSLO-Mandatendatabank",
+    "template": "mandatendatabank-ap.j2",
+    "title": "Mandatendatabank",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "12-12-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Mandaat",
+    "config" : "config/config-ap.json",
+    "site": "site-skeleton/mandatendatabank"
+  }
+]
