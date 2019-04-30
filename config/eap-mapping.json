@@ -5,12 +5,15 @@
     "eap": "OSLO-Bestuur-VOC.eap",
     "diagram": "OSLO-Bestuur",
     "template": "bestuur-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"title": "Bestuur",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Bestuur",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "besluit",
@@ -18,12 +21,15 @@
     "eap": "OSLO-Besluit-VOC.eap",
     "diagram": "OSLO-Besluit",
     "template": "besluit-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"title": "Besluit",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "20-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Besluit",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "mandaat",
@@ -31,12 +37,15 @@
     "eap": "OSLO-Mandaat-VOC.eap",
     "diagram": "OSLO-Mandaat",
     "template": "mandaat-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"title": "Mandaat",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "20-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Mandaat",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "besluit-publicatie",
@@ -45,12 +54,14 @@
     "diagram": "OSLO-Besluit-Publicatie",
     "template": "besluit-publicatie-ap.j2",
     "title": "Besluit Publicatie",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "20-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Besluit",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/besluit-publicatie"
+    "site": "site-skeleton/besluit-publicatie",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "mandatendatabank",
@@ -59,11 +70,13 @@
     "diagram": "OSLO-Mandatendatabank",
     "template": "mandatendatabank-ap.j2",
     "title": "Mandatendatabank",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "20-07-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Mandaat",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/mandatendatabank"
+    "site": "site-skeleton/mandatendatabank",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   }
 ]
