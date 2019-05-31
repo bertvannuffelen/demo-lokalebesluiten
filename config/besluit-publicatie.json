@@ -1,4 +1,4 @@
-{
+[{
   "name": "besluit-publicatie",
   "type": "ap",
   "eap": "OSLO-Besluit-Publicatie-AP.eap",
@@ -13,4 +13,4 @@
   "site": "site-skeleton/besluit-publicatie",
   "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+}]

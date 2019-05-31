@@ -1,4 +1,4 @@
-{
+[{
   "name": "bestuur",
   "type": "voc",
   "eap": "OSLO-Bestuur-VOC.eap",
@@ -13,4 +13,4 @@
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+}]

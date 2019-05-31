@@ -1,4 +1,4 @@
-{
+[{
   "name": "besluit",
   "type": "voc",
   "eap": "OSLO-Besluit-VOC.eap",
@@ -13,4 +13,4 @@
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+}]
