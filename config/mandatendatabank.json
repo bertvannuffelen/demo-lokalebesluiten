@@ -9,7 +9,6 @@
   "publication-date": "20-07-2018",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mandaat",
-  "config": "config/config-ap.json",
   "site": "site-skeleton/mandatendatabank",
   "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
